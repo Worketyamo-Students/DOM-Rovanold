@@ -111,8 +111,8 @@ let body = document.body
 // let li2 = document.getElementById('li2')
 // let jnrbr = li2.previousElementSibling
 // let snrbr = li2.nextElementSibling
-// jnrbr.style.background = 'blue'
-// snrbr.style.background = 'red'
+// jnrbr.style.background = 'orange'
+// snrbr.style.background = 'yellow'
 
 
 //3.2
